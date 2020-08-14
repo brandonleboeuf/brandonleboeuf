@@ -1,7 +1,9 @@
 ### Welcome to my REPO 👋
 
 💻 I am a 🧛 junior web developer based out of Portland, Oregon.
+
 😄 Pronouns: He/Him
+
 🗃 Looking for a Web Dev / Software Engineer job on an ethnically diverse team
 that has strong women in leadership!!
 
