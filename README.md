@@ -11,7 +11,7 @@ in Hospitality (including my most recent job an AGM at Il Solito restaurant in P
 
 
 
-<img align="left" width="340" height="700" src="https://raw.githubusercontent.com/brandonleboeuf/brandonleboeuf/master/puppet.svg" alt="Drawing of a puppet">
+<img align="center" width="340" height="700" src="https://raw.githubusercontent.com/brandonleboeuf/brandonleboeuf/master/puppet.svg" alt="Drawing of a puppet">
 
 
 
