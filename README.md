@@ -9,7 +9,9 @@ I've been focusing on web dev since september 2019 and have 10+ years experience
 in Hospitality (including my most recent job an AGM at Il Solito restaurant in Portland)
 
 
-![Drawing of a puppet](https://raw.githubusercontent.com/brandonleboeuf/brandonleboeuf/master/puppet.svg)
+
+
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/brandonleboeuf/brandonleboeuf/master/puppet.svg" alt="Drawing of a puppet">
 
 
 
