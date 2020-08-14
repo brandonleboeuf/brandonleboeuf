@@ -15,29 +15,29 @@ in Hospitality (including my most recent job an AGM at Il Solito restaurant in P
 </div>
 
 
-## 🤓
+## 
 👊 Though Covid may be keeping us all at home, I am taking
 the opportunity to dive into every resource I can!
 
-* Frontend Masters
-* CodeCademy
-* DesignCode.io
-* WebFlow (their training is really wonderful!)
-* books, books, books
+  * Frontend Masters
+  * CodeCademy
+  * DesignCode.io
+  * WebFlow (their training is really wonderful!)
+  * books, books, books
 
 
 🔭 I’m currently working on getting a full time job as a web developerand LEARNING!!!
 
 
-🌱 I’m currently learning 
+🌱 I’m currently learning: 
+    * REACT
+    * CSS-in-JS
+    * JavaScript
+    * Ember
+    * node.js
+    * git
 
-* REACT
-* CSS-in-JS
-* JavaScript
-* Ember
-* node.js
-* git
 
-- 📫 How to reach me: brandon.leboeuf@gmail.com or on TWITTER!! https://twitter.com/brandoneleboeuf
+📫 How to reach me: brandon.leboeuf@gmail.com or on TWITTER!! https://twitter.com/brandoneleboeuf
 
 
