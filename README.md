@@ -1,25 +1,29 @@
-### Hi there 👋
+### Welcome to my REPO 👋
 
-💻 I am a 🧛junior web developer based out of Portland, Oregon.
+💻 I am a 🧛 junior web developer based out of Portland, Oregon.
 😄 Pronouns: He/Him
-🗃 Looking for a Web Dev / Software Engineer job on a ethnically diverse team
+🗃 Looking for a Web Dev / Software Engineer job on an ethnically diverse team
 that has strong women in leadership!!
 
-![Pupet drawing](https://raw.githubusercontent.com/brandonleboeuf/brandonleboeuf/master/puppet.svg)
+I've been focusing on web dev since september 2019 and have 10+ years experience 
+in Hospitality (including my most recent job an AGM at Il Solito restaurant in Portland)
+
+
+![Drawing of a puppet](https://raw.githubusercontent.com/brandonleboeuf/brandonleboeuf/master/puppet.svg)
 
 
 
 👊 Though Covid may be keeping us all at home, I am taking
-the oppertuinity to dive into every resource I can!
+the opportunity to dive into every resource I can!
 
 * Frontend Masters
 * CodeCademy
 * DesignCode.io
-* WebFlow (their trainig is realy wonderful!)
+* WebFlow (their training is really wonderful!)
 * books, books, books
 
 
-🔭 I’m currently working on getting a fulltime job as a web developer
+🔭 I’m currently working on getting a full time job as a web developerand LEARNING!!!
 
 
 🌱 I’m currently learning 
@@ -32,6 +36,5 @@ the oppertuinity to dive into every resource I can!
 * git
 
 - 📫 How to reach me: brandon.leboeuf@gmail.com or on TWITTER!! https://twitter.com/brandoneleboeuf
-
 
 
