@@ -26,16 +26,17 @@ the opportunity to dive into every resource I can!
   * books, books, books
 
 
-🔭 I’m currently working on getting a full time job as a web developerand LEARNING!!!
+🔭 I’m working on getting a full time job as a web developerand LEARNING!!!
 
 
 🌱 I’m currently learning: 
-    * REACT
-    * CSS-in-JS
-    * JavaScript
-    * Ember
-    * node.js
-    * git
+
+  * REACT
+  * CSS-in-JS
+  * JavaScript
+  * Ember
+  * node.js
+  * git
 
 
 📫 How to reach me: brandon.leboeuf@gmail.com or on TWITTER!! https://twitter.com/brandoneleboeuf
