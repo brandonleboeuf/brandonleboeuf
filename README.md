@@ -15,6 +15,7 @@ in Hospitality (including my most recent job an AGM at Il Solito restaurant in P
 </div>
 
 
+## 🤓
 👊 Though Covid may be keeping us all at home, I am taking
 the opportunity to dive into every resource I can!
 
