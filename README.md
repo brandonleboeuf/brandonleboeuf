@@ -1,4 +1,7 @@
-### Welcome to my REPO 👋
+
+<div align="center>
+  ## 👋 Welcome to my REPO 👋
+</div>
 
 💻 I am a 🧛 junior web developer based out of Portland, Oregon.
 
