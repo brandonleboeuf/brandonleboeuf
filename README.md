@@ -5,7 +5,7 @@
 🗃 Looking for a Web Dev / Software Engineer job on a ethnically diverse team
 that has strong women in leadership!!
 
-![Pupet drawing](/puppet.svg)
+![Pupet drawing](/puppet.png)
 
 
 
