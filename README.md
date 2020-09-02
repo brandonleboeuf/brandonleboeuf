@@ -1,54 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=brandonleboeuf)
 
 ## 👋  Welcome to my REPO 👋
-
-
-
-💻  I am a 🧛 web developer based out of Portland, Oregon.
-
-😄  Pronouns: He/Him
-
-🗃  Looking for a Web Dev / Software Engineer job on an ethnically diverse team
-that has strong women in leadership!!
-
-I've been focusing on web dev since september 2019 and have 10+ years experience 
-in Hospitality (including my most recent job an AGM at Il Solito restaurant in Portland)
-
-
-
 <div align="center">
-  <img  width="340" height="700" src="https://raw.githubusercontent.com/brandonleboeuf/brandonleboeuf/master/puppet.svg" alt="Drawing of a puppet">
+  <img  width="227" height="467" src="https://raw.githubusercontent.com/brandonleboeuf/brandonleboeuf/master/puppet.svg" alt="Drawing of a puppet">
 </div>
 
+👋 Hello 👋 . 
 
-## 
-👊  Though Covid may be keeping us all at home, I am taking
-the opportunity to dive into every resource I can!
+My name is Brandon. 💻  I am a 🧛 web developer based out of Portland, Oregon.
 
-  * Frontend Masters
-  * CodeCademy
-  * DesignCode.io
-  * WebFlow (their training is really wonderful!)
-  * books, books, books
+I love to learn and am continuously pushing myself to grow as a developer. I have over a decade of experience in both managing and training teams of 40+ people and have learned how to successfully navigate difficult situations. These past roles have allowed me to gain experience in developing my ability to see from different perspectives and find ways to manage and address individual needs.
 
-
-🔭  I’m working on getting a full time job as a web developerand LEARNING!!!
-
-
-🌱  I’m currently learning: 
-
-  * REACT
-  * CSS-in-JS
-  * JavaScript
-  * Ember
-  * node.js
-  * git
-
+I primarily work with React, JavaScript, and CSS as well as utilizing APIs, TDD, and contributing to opensource projects. You can usually find me trying to create or build something... whether it be brewing my own beer, playing piano, making bread, or building web applications; I get joy from being creative and find reward in the growth/struggle!
 
 📫 How to reach me: brandon.leboeuf@gmail.com or on TWITTER!! https://twitter.com/brandoneleboeuf
-
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonleboeuf&show_icons=true&bg_color=30,e96443,904e95&text_color=fff&icon_color=fff&title_color=fff)
-
-
