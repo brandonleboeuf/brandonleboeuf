@@ -53,5 +53,5 @@ the opportunity to dive into every resource I can!
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonleboeuf&show_icons=true&hideprs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonleboeuf&show_icons=true&hide=prs)
 
