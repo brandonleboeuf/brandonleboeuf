@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=brandonleboeuf)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonleboeuf&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonleboeuf&show_icons=true&bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10)
 
 ## 👋 Welcome to my REPO 👋
 
