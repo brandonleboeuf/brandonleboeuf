@@ -5,7 +5,6 @@
   <img  width="227" height="467" src="https://raw.githubusercontent.com/brandonleboeuf/brandonleboeuf/master/puppet.svg" alt="Drawing of a puppet">
 </div>
 
-## 👋 Hello 👋 .
 
 ## My name is Brandon. 💻 I am a 🧛 web developer based out of Portland, Oregon.
 
