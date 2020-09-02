@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=brandonleboeuf)
 
-// ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonleboeuf&show_icons=true&hide=PR)
+
 
 
 ## 👋 Welcome to my REPO 👋
@@ -49,4 +49,9 @@ the opportunity to dive into every resource I can!
 
 
 📫 How to reach me: brandon.leboeuf@gmail.com or on TWITTER!! https://twitter.com/brandoneleboeuf
+
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonleboeuf&show_icons=true&hidePRs)
 
