@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=brandonleboeuf)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonleboeuf&show_icons=true&theme=gradient)
 
 ## 👋 Welcome to my REPO 👋
 
