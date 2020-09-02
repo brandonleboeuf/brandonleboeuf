@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=brandonleboeuf)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonleboeuf)](https://github.com/brandonleboeuf/github-readme-stats)
 
 ## 👋 Welcome to my REPO 👋
 
