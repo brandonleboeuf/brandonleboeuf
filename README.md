@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=brandonleboeuf)
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=Gradient)
+
 ## 👋 Welcome to my REPO 👋
 
 
