@@ -13,4 +13,4 @@ I have over a decade of experience in both managing and training teams of 40+ pe
 
 I can usually be found trying to create or build something... whether it be brewing my own beer, playing piano, making bread, or building web applications; I get joy from being creative and find reward in the growth/struggle!
 
-📫 How to reach me: brandon.leboeuf@gmail.com or on TWITTER!! https://twitter.com/brandoneleboeuf
+📫 How to reach me: brandon.leboeuf@gmail.com or on [TWITTER](https://twitter.com/BrandonLeBoeuf_)!! 
