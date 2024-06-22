@@ -6,8 +6,8 @@
 </div>
 
 
-## My name is Brandon. 💻 I am a software enginer at Draftkings based out of Portland, Oregon. 
-### I focus on HTML5(semantic tags and SEO), CSS (flexbox and grid), and Javascript, as it specifically applies to the UI. I utilizing APIs, TDD, and contributing to opensource projects whenever I can.
+## My name is Brandon. 💻 I am a software enginer at DraftKings based out of Portland, Oregon. 
+### I focus on HTML5(semantic tags and SEO), CSS (flexbox and grid), and JavaScript, as it specifically applies to the UI. I utilizing APIs, TDD, and contributing to opensource projects whenever I can.
 
 #### I like to prototype in Figma, build with React/Next.js and interact with APIs using GraphQL.
 
